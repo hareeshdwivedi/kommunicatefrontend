@@ -1,0 +1,42 @@
+.main {
+  background: #ffffff;
+  border-radius: 24px 24px 0px 0px;
+  padding: 50px;
+}
+.header {
+  font-size: 30px;
+  font-weight: 600;
+}
+.description {
+  font-size: 19px;
+  font-weight: 400;
+  padding-top: 20px;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.contentList {
+  font-weight: 500;
+  font-size: 16px;
+  padding-top: 5px;
+}
+
+.AppImg {
+  max-width: 100%;
+  height: auto;
+}
+.invalidResponse {
+  font-weight: 400;
+  font-size: 15px;
+  color: #ec6464;
+  padding-top: 16px;
+}
+.validResponse {
+  font-weight: 400;
+  font-size: 15px;
+  color: #56ba90;
+  padding-top: 16px;
+}
